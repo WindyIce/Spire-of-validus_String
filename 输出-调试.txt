@@ -1,0 +1,69 @@
+﻿“魔塔！.exe”(Win32): 已加载“C:\Users\user\Documents\Visual Studio 2015\Projects\魔塔！\Debug\魔塔！.exe”。已加载符号。
+“魔塔！.exe”(Win32): 已加载“C:\Windows\SysWOW64\ntdll.dll”。无法查找或打开 PDB 文件。
+“魔塔！.exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel32.dll”。无法查找或打开 PDB 文件。
+“魔塔！.exe”(Win32): 已加载“C:\Windows\SysWOW64\KernelBase.dll”。无法查找或打开 PDB 文件。
+“魔塔！.exe”(Win32): 已加载“C:\Windows\SysWOW64\winmm.dll”。无法查找或打开 PDB 文件。
+“魔塔！.exe”(Win32): 已加载“C:\Windows\SysWOW64\vcruntime140d.dll”。无法查找或打开 PDB 文件。
+“魔塔！.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcp140d.dll”。无法查找或打开 PDB 文件。
+“魔塔！.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcrt.dll”。无法查找或打开 PDB 文件。
+“魔塔！.exe”(Win32): 已加载“C:\Windows\SysWOW64\ucrtbased.dll”。无法查找或打开 PDB 文件。
+“魔塔！.exe”(Win32): 已加载“C:\Windows\SysWOW64\advapi32.dll”。无法查找或打开 PDB 文件。
+“魔塔！.exe”(Win32): 已加载“C:\Windows\SysWOW64\user32.dll”。无法查找或打开 PDB 文件。
+“魔塔！.exe”(Win32): 已加载“C:\Windows\SysWOW64\sechost.dll”。无法查找或打开 PDB 文件。
+“魔塔！.exe”(Win32): 已加载“C:\Windows\SysWOW64\gdi32.dll”。无法查找或打开 PDB 文件。
+“魔塔！.exe”(Win32): 已加载“C:\Windows\SysWOW64\rpcrt4.dll”。无法查找或打开 PDB 文件。
+“魔塔！.exe”(Win32): 已加载“C:\Windows\SysWOW64\winmmbase.dll”。无法查找或打开 PDB 文件。
+“魔塔！.exe”(Win32): 已加载“C:\Windows\SysWOW64\winmmbase.dll”。无法查找或打开 PDB 文件。
+“魔塔！.exe”(Win32): 已加载“C:\Windows\SysWOW64\sspicli.dll”。无法查找或打开 PDB 文件。
+“魔塔！.exe”(Win32): 已卸载“C:\Windows\SysWOW64\winmmbase.dll”
+“魔塔！.exe”(Win32): 已加载“C:\Windows\SysWOW64\cryptbase.dll”。无法查找或打开 PDB 文件。
+“魔塔！.exe”(Win32): 已加载“C:\Windows\SysWOW64\cfgmgr32.dll”。无法查找或打开 PDB 文件。
+“魔塔！.exe”(Win32): 已加载“C:\Windows\SysWOW64\bcryptprimitives.dll”。无法查找或打开 PDB 文件。
+“魔塔！.exe”(Win32): 已加载“C:\Windows\SysWOW64\imm32.dll”。无法查找或打开 PDB 文件。
+“魔塔！.exe”(Win32): 已加载“C:\Windows\SysWOW64\uxtheme.dll”。无法查找或打开 PDB 文件。
+“魔塔！.exe”(Win32): 已加载“C:\Windows\SysWOW64\combase.dll”。无法查找或打开 PDB 文件。
+“魔塔！.exe”(Win32): 已加载“C:\Program Files (x86)\Common Files\Microsoft Shared\Ink\tiptsf.dll”。无法查找或打开 PDB 文件。
+“魔塔！.exe”(Win32): 已加载“C:\Windows\SysWOW64\oleaut32.dll”。无法查找或打开 PDB 文件。
+“魔塔！.exe”(Win32): 已加载“C:\Windows\SysWOW64\dwmapi.dll”。无法查找或打开 PDB 文件。
+“魔塔！.exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel.appcore.dll”。无法查找或打开 PDB 文件。
+“魔塔！.exe”(Win32): 已加载“C:\Windows\SysWOW64\MMDevAPI.dll”。无法查找或打开 PDB 文件。
+“魔塔！.exe”(Win32): 已加载“C:\Windows\SysWOW64\devobj.dll”。无法查找或打开 PDB 文件。
+“魔塔！.exe”(Win32): 已加载“C:\Windows\SysWOW64\propsys.dll”。无法查找或打开 PDB 文件。
+“魔塔！.exe”(Win32): 已加载“C:\Windows\SysWOW64\wdmaud.drv”。无法查找或打开 PDB 文件。
+“魔塔！.exe”(Win32): 已加载“C:\Windows\SysWOW64\avrt.dll”。无法查找或打开 PDB 文件。
+“魔塔！.exe”(Win32): 已加载“C:\Windows\SysWOW64\ksuser.dll”。无法查找或打开 PDB 文件。
+“魔塔！.exe”(Win32): 已加载“C:\Windows\SysWOW64\AudioSes.dll”。无法查找或打开 PDB 文件。
+“魔塔！.exe”(Win32): 已加载“C:\Windows\SysWOW64\powrprof.dll”。无法查找或打开 PDB 文件。
+“魔塔！.exe”(Win32): 已加载“C:\Windows\SysWOW64\WinTypes.dll”。无法查找或打开 PDB 文件。
+“魔塔！.exe”(Win32): 已加载“C:\Windows\SysWOW64\msacm32.drv”。无法查找或打开 PDB 文件。
+“魔塔！.exe”(Win32): 已加载“C:\Windows\SysWOW64\msacm32.dll”。无法查找或打开 PDB 文件。
+“魔塔！.exe”(Win32): 已加载“C:\Windows\SysWOW64\midimap.dll”。无法查找或打开 PDB 文件。
+“魔塔！.exe”(Win32): 已加载“C:\Windows\SysWOW64\clbcatq.dll”。无法查找或打开 PDB 文件。
+“魔塔！.exe”(Win32): 已加载“C:\Windows\SysWOW64\msctf.dll”。无法查找或打开 PDB 文件。
+“魔塔！.exe”(Win32): 已加载“C:\Windows\SysWOW64\UIAutomationCore.dll”。无法查找或打开 PDB 文件。
+“魔塔！.exe”(Win32): 已加载“C:\Windows\SysWOW64\userenv.dll”。无法查找或打开 PDB 文件。
+“魔塔！.exe”(Win32): 已加载“C:\Windows\SysWOW64\profapi.dll”。无法查找或打开 PDB 文件。
+“魔塔！.exe”(Win32): 已加载“C:\Windows\SysWOW64\sxs.dll”。无法查找或打开 PDB 文件。
+“魔塔！.exe”(Win32): 已加载“C:\Windows\SysWOW64\oleacc.dll”。无法查找或打开 PDB 文件。
+线程 0x910 已退出，返回值为 0 (0x0)。
+线程 0x3b8 已退出，返回值为 0 (0x0)。
+线程 0x2988 已退出，返回值为 0 (0x0)。
+线程 0x3b8 已退出，返回值为 0 (0x0)。
+线程 0x15d8 已退出，返回值为 0 (0x0)。
+线程 0x19c0 已退出，返回值为 0 (0x0)。
+线程 0x2d90 已退出，返回值为 0 (0x0)。
+线程 0x2ea0 已退出，返回值为 0 (0x0)。
+线程 0x25a4 已退出，返回值为 0 (0x0)。
+线程 0x1aa4 已退出，返回值为 0 (0x0)。
+线程 0x2420 已退出，返回值为 0 (0x0)。
+线程 0x2e38 已退出，返回值为 0 (0x0)。
+线程 0x81c 已退出，返回值为 0 (0x0)。
+线程 0x2a98 已退出，返回值为 0 (0x0)。
+线程 0xf20 已退出，返回值为 -1073741510 (0xc000013a)。
+线程 0x1d64 已退出，返回值为 -1073741510 (0xc000013a)。
+线程 0x2fa0 已退出，返回值为 -1073741510 (0xc000013a)。
+线程 0x2028 已退出，返回值为 -1073741510 (0xc000013a)。
+线程 0x2cb4 已退出，返回值为 -1073741510 (0xc000013a)。
+线程 0x1a2c 已退出，返回值为 -1073741510 (0xc000013a)。
+线程 0x2114 已退出，返回值为 -1073741510 (0xc000013a)。
+程序“[12920] 魔塔！.exe”已退出，返回值为 -1073741510 (0xc000013a)。
